@@ -3636,6 +3636,38 @@ input, select, textarea {
 			transform: scaleY(-1) scaleX(-1);
 		}
 
+                .wrapper.alt .inner {
+				display: -moz-flex;
+				display: -webkit-flex;
+				display: -ms-flex;
+				display: flex;
+				-moz-align-items: center;
+				-webkit-align-items: center;
+				-ms-align-items: center;
+				align-items: center;
+				-moz-flex-direction: row;
+				-webkit-flex-direction: row;
+				-ms-flex-direction: row;
+				flex-direction: row;
+			}
+
+			.wrapper.alt .image {
+				border-radius: 100%;
+				margin: 0 3em 2em 0;
+				width: 22em;
+				overflow: hidden;
+				-ms-flex: 1;
+			}
+
+				.wrapper.alt .image img {
+					border-radius: 100%;
+					width: 100%;
+				}
+
+			.wrapper.alt .content {
+				width: 100%;
+				-ms-flex: 2;
+			}
 		.wrapper .inner {
 			padding: 3em 0 1em 0 ;
 			margin: 0 auto;
