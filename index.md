@@ -39,8 +39,8 @@
 					<section id="banner">
 						<div class="inner">
 							<div class="logo"><span class="icon fa-diamond"></span></div>
-							<h2>This is Solid State</h2>
-							<p>Aliquet enim cep justo adipiscing erat accumsan at Parturient</p>
+							<h2>Team members</h2>
+							<p>We are the best team!</p>
 						</div>
 					</section>
 				<!-- Wrapper -->
@@ -48,10 +48,11 @@
 						<!-- One -->
 							<section id="one" class="wrapper spotlight style1">
 								<div class="inner">
-									<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+									<a href="#" class="image"><img src="images/30712660_1609366295827832_3662103413962833920_n.jpg" alt="" /></a>
 									<div class="content">
-										<h2 class="major">Magna arcu feugiat</h2>
-										<p>Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras turpis ante, nullam sit amet turpis non, sollicitudin posuere urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla cursus.</p>
+										<h2 class="major">TSAO,CHI-HUI</h2>
+										<p>Role: Team Leader、Programmer、Biomedical/Chemical Engineering</p>
+										<p>Hello~ First, I want to thank every members in my team, we will not able to finish a project without anyone of them. I'm so proud of my team. Thanks to our teacher, giving us all the things he could. And, of course, thanks this competition, we met the amazing world of biomodification.</p>
 										<a href="#" class="special">Learn more</a>
 									</div>
 								</div>
