@@ -1,75 +1,170 @@
-<!doctype html>
 
+<!DOCTYPE HTML>
+<!--
+	Solid State by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+-->
 <html>
-<head>
-
-<title>Biomod</title>
-<link rel="stylesheet" type="text/css" href="style.css" />
-</head>
-
-<body>
-        
-<div id="container">
-
-<div id="header">
-
-
-<h1><center><font size="9" align="center face="serif" >AGAINST THE CURRENT</font></h1></center>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<h2><font size="5" align="center face="sans-serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-www.atcofficial.com</font></h2>
-</div>
-
-<div id="left">
-
-
-<h4><span class="menu_first_letter">Navigation</span></h4>
-
-<div id="navcontainer">
-<ul>
-<li><a href="home.html"target="main">Welcome</a></li>
-<li><a href="concert tours.html"target="main">Concert tours</a></li>
-<li><a href="experience.html"target="main">My Experience</a></li>
-<li><a href="music.html"target="main">Music</a></li>
-<li><a href="band member.html"target="main">Band members</a></li>
-</ul>
-</div>
-<embed src="" width="200" height="60" autostart="true" loop="true"></embed>
-</div>
-
-
-<div id="right">
-<p><iframe id="main" name=main src="home.html" width="700" height="600"
-scrolling="auto" frameborder=0> 
-
-&nbsp;<h2><img src="images/arrow.png" alt="ill title" width="63" height="20" />About ATC ! </h2>
-<p><font size="3" color="black" align="center" ></p>
-<p><font size="3" color="black" align="center" >Against The Current (ATC)</p>
-<p><font size="3" color="black" align="center" >is an American pop rock band</p>
-<p><font size="3" color="black" align="center" >based in Poughkeepsie, New York,</p>
-<p><font size="3" color="black" align="center" >and formed in 2011.</p>
-<p><font size="3" color="black" align="center" >The band currently consists of</p>
-<p><font size="3" color="black" align="center" >lead vocalist Chrissy Costanza</p>
-<p><font size="3" color="black" align="center" >guitarist Dan Gow,</p>
-<p><font size="3" color="black" align="center" >and drummer Will Ferri.</p>
-<p><font size="3" color="black" align="center" >The group gained a sizable online following</p>
-<p><font size="3" color="black" align="center" >after posting covers of various popular songs on YouTube.</p>
-<br>
-</iframe></p>
-</div>
-
-<div id="footer">
-<img src="images/698c73a11a611a8963fb2878d97f68df.jpg" width="25" height="25">
-
-生醫二乙 B0509246 劉彥成|
-<a href="mailto:poppy501025@gmail.com"><img src="images/246x0w.jpg" width="25" height="25">
-poppy501025@gmail.com</a>|
-<a href="http://www.oswd.org/user/profile/id/10642/">
-<img src="images/images.png" width="25" height="25">
-Reference</a>
-</div>
-
-
-</body>
+	<head>
+		<title>Untitled</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="main.css" />
+		<noscript><link rel="stylesheet" href="noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">Solid State</a></h1>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+				<!-- Menu -->
+					<nav id="menu">
+						<div class="inner">
+							<h2>Menu</h2>
+							<ul class="links">
+								<li><a href="index.html">Home</a></li>
+								<li><a href="generic.html">Generic</a></li>
+								<li><a href="elements.html">Elements</a></li>
+								<li><a href="#">Log In</a></li>
+								<li><a href="#">Sign Up</a></li>
+							</ul>
+							<a href="#" class="close">Close</a>
+						</div>
+					</nav>
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<div class="logo"><span class="icon fa-diamond"></span></div>
+							<h2>This is Solid State</h2>
+							<p>Aliquet enim cep justo adipiscing erat accumsan at Parturient</p>
+						</div>
+					</section>
+				<!-- Wrapper -->
+					<section id="wrapper">
+						<!-- One -->
+							<section id="one" class="wrapper spotlight style1">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Magna arcu feugiat</h2>
+										<p>Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras turpis ante, nullam sit amet turpis non, sollicitudin posuere urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla cursus.</p>
+										<a href="#" class="special">Learn more</a>
+									</div>
+								</div>
+							</section>
+						<!-- Two -->
+							<section id="two" class="wrapper alt spotlight style2">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Tempus adipiscing</h2>
+										<p>Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras turpis ante, nullam sit amet turpis non, sollicitudin posuere urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla cursus.</p>
+										<a href="#" class="special">Learn more</a>
+									</div>
+								</div>
+							</section>
+						<!-- Three -->
+							<section id="three" class="wrapper spotlight style3">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Nullam dignissim</h2>
+										<p>Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras turpis ante, nullam sit amet turpis non, sollicitudin posuere urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla cursus.</p>
+										<a href="#" class="special">Learn more</a>
+									</div>
+								</div>
+							</section>
+						<!-- Four -->
+							<section id="four" class="wrapper alt style1">
+								<div class="inner">
+									<h2 class="major">Vitae phasellus</h2>
+									<p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
+									<section class="features">
+										<article>
+											<a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
+											<h3 class="major">Sed feugiat lorem</h3>
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
+											<a href="#" class="special">Learn more</a>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
+											<h3 class="major">Nisl placerat</h3>
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
+											<a href="#" class="special">Learn more</a>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic06.jpg" alt="" /></a>
+											<h3 class="major">Ante fermentum</h3>
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
+											<a href="#" class="special">Learn more</a>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
+											<h3 class="major">Fusce consequat</h3>
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
+											<a href="#" class="special">Learn more</a>
+										</article>
+									</section>
+									<ul class="actions">
+										<li><a href="#" class="button">Browse All</a></li>
+									</ul>
+								</div>
+							</section>
+					</section>
+				<!-- Footer -->
+					<section id="footer">
+						<div class="inner">
+							<h2 class="major">Get in touch</h2>
+							<p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field">
+										<label for="name">Name</label>
+										<input type="text" name="name" id="name" />
+									</div>
+									<div class="field">
+										<label for="email">Email</label>
+										<input type="email" name="email" id="email" />
+									</div>
+									<div class="field">
+										<label for="message">Message</label>
+										<textarea name="message" id="message" rows="4"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</form>
+							<ul class="contact">
+								<li class="fa-home">
+									Untitled Inc<br />
+									1234 Somewhere Road Suite #2894<br />
+									Nashville, TN 00000-0000
+								</li>
+								<li class="fa-phone">(000) 000-0000</li>
+								<li class="fa-envelope"><a href="#">information@untitled.tld</a></li>
+								<li class="fa-twitter"><a href="#">twitter.com/untitled-tld</a></li>
+								<li class="fa-facebook"><a href="#">facebook.com/untitled-tld</a></li>
+								<li class="fa-instagram"><a href="#">instagram.com/untitled-tld</a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Untitled Inc. All rights reserved.</li>
+							</ul>
+						</div>
+					</section>
+			</div>
+		<!-- Scripts -->
+			<script src="jquery.min.js"></script>
+			<script src="jquery.scrollex.min.js"></script>
+			<script src="browser.min.js"></script>
+			<script src="breakpoints.min.js"></script>
+			<script src="util.js"></script>
+			<script src="main.js"></script>
+	</body>
 </html>
