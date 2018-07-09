@@ -7,7 +7,7 @@
 -->
 <html>
 	<head>
-		<title>Untitled</title>
+		<title>2018BIOMOD@ATCGU</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="main.css" />
@@ -29,10 +29,11 @@
 							<h2>Menu</h2>
 							<ul class="links">
 								<li><a href="index.html">Home</a></li>
-								<li><a href="generic.html">Generic</a></li>
-								<li><a href="elements.html">Elements</a></li>
-								<li><a href="#">Log In</a></li>
-								<li><a href="#">Sign Up</a></li>
+								<li><a href="generic.html">Project</a></li>
+								<li><a href="elements.html">Design</a></li>
+								<li><a href="elements.html">Experiment</a></li>
+								<li><a href="#">Future</a></li>
+								<li><a href="#">Team</a></li>
 							</ul>
 							<a href="#" class="close">Close</a>
 						</div>
