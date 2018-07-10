@@ -3923,6 +3923,11 @@ input, select, textarea {
 					margin: 0 2em 2em 0;
 					width: 32em;
 				}
+			
+			        .wrapper.alt .image {
+					margin: 0 2em 2em 0;
+					width: 32em;
+				}
 
 				.wrapper.spotlight:nth-child(2n - 1) .image {
 					margin: 0 0 2em 2em;
@@ -3964,6 +3969,18 @@ input, select, textarea {
 					width: 19em;
 					margin: 0 1.75em 2em 0;
 				}
+			
+			        .wrapper.alt .inner {
+					-moz-align-items: -moz-flex-start;
+					-webkit-align-items: -webkit-flex-start;
+					-ms-align-items: -ms-flex-start;
+					align-items: flex-start;
+				}
+
+				.wrapper.alt .image {
+					width: 19em;
+					margin: 0 1.75em 2em 0;
+				}
 
 				.wrapper.spotlight:nth-child(2n - 1) .image {
 					margin: 0 0 2em 1.75em;
@@ -3978,6 +3995,16 @@ input, select, textarea {
 			}
 
 			.wrapper.spotlight .image {
+				margin: 0 0 1em 0 !important;
+				max-width: 85%;
+				width: 12em;
+			}
+			
+			.wrapper.alt .inner {
+				display: block;
+			}
+
+			.wrapper.alt .image {
 				margin: 0 0 1em 0 !important;
 				max-width: 85%;
 				width: 12em;
