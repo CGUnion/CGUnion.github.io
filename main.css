@@ -3969,6 +3969,10 @@ input, select, textarea {
 					width: 19em;
 					margin: 0 1.75em 2em 0;
 				}
+
+				.wrapper.spotlight:nth-child(2n - 1) .image {
+					margin: 0 0 2em 1.75em;
+				}
 			
 			        .wrapper.alt .inner {
 					-moz-align-items: -moz-flex-start;
@@ -3980,10 +3984,6 @@ input, select, textarea {
 				.wrapper.alt .image {
 					width: 19em;
 					margin: 0 1.75em 2em 0;
-				}
-
-				.wrapper.spotlight:nth-child(2n - 1) .image {
-					margin: 0 0 2em 1.75em;
 				}
 
 		}
