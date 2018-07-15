@@ -3668,6 +3668,21 @@ input, select, textarea {
 				width: 100%;
 				-ms-flex: 2;
 			}
+
+                        .wrapper.another:before {
+			-moz-transform: scaleX(-1);
+			-webkit-transform: scaleX(-1);
+			-ms-transform: scaleX(-1);
+			transform: scaleX(-1);
+		}
+
+		.wrapper.another:after {
+			-moz-transform: scaleY(-1) scaleX(-1);
+			-webkit-transform: scaleY(-1) scaleX(-1);
+			-ms-transform: scaleY(-1) scaleX(-1);
+			transform: scaleY(-1) scaleX(-1);
+		}
+
 		.wrapper .inner {
 			padding: 3em 0 1em 0 ;
 			margin: 0 auto;
